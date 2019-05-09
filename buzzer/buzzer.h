@@ -17,7 +17,7 @@
  * frequencies for different lengths of time.
  *
  * The following module utilizes the task manager and timing module
- * in order to inact a buzzer to produce a sound at a determined frequency.
+ * in order to make a buzzer produce a sound at a determined frequency.
  * The timing module is used to control the frequency of the sound produced
  * and the task module is used to control the length of time the buzzer will 
  * sound.

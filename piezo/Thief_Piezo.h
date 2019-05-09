@@ -11,7 +11,7 @@
  * @brief This module implements a piezo vibration sensor trap for a thief simulation game.
  *
  * This module is designed as a trap for a thief simulator game which
- * will act as a minefield trap. The piezo sensor is a transducer that
+ * will act as a landmine trap. The piezo sensor is a transducer that
  * produces a signal when it senses vibrations. The ADC module is used 
  * to read the analog input from the piezo and determine how strong the
  * vibrations are by using a callback to the Thief_CheckADC() function.
